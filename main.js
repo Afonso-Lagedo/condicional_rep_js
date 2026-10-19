@@ -1,3 +1,5 @@
-for (let i=0; i<=51; i = i+1){
-    console.log(i)
+const x = ["banana", "uva", "morango", "7"]
+
+for (let a of x){
+    console.log(a)
 }
